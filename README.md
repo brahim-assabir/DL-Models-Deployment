@@ -1,4 +1,3 @@
-
 # DL Models Deployment — Classification d’images avec MobileNetV2 & Gradio
 
 ## 📌 Description du projet
@@ -11,8 +10,8 @@ L’application permet de charger une image et d’obtenir les **3 classes les p
 
 ## 👥 Membres de l’équipe
 
-- brahim Assabir
-- Nadia Kandoul
+- Ibrahim Assabir
+- Nadia
 
 ## 🗂️ Structure du projet
 
@@ -24,6 +23,9 @@ DL-Models-Deployment/
 ├── README.md
 └── demo_video.mp4
 
+bash
+Copier
+Modifier
 
 ## ⚙️ Configuration de l’environnement
 
@@ -34,18 +36,24 @@ git clone https://github.com/brahim-assabir/DL-Models-Deployment.git
 cd DL-Models-Deployment
 2️⃣ Créer et activer un environnement virtuel
 
+bash
+Copier
+Modifier
 python -m venv venv
 venv\Scripts\activate
-
 3️⃣ Installer les bibliothèques nécessaires
 
-
+bash
+Copier
+Modifier
 pip install -r requirements.txt
-
 🚀 Lancer l’application
 Depuis Jupyter Notebook
 Ouvrir le notebook
 
+bash
+Copier
+Modifier
 jupyter notebook notebook.ipynb
 Exécuter toutes les cellules pour démarrer l’interface Gradio.
 
@@ -55,7 +63,7 @@ Modèle : MobileNetV2 (pré-entraîné sur ImageNet)
 Tâche : Classification d’images (Top-3 prédictions)
 
 🎥 Démonstration
-👉 Cliquez ici pour voir la vidéo : 
+Lien de la vidéo de présentation : 👉 Cliquez ici pour voir la vidéo
 
 📚 Ressources
 TensorFlow
