@@ -17,8 +17,6 @@ L’application permet de charger une image et d’obtenir les **3 classes les p
 
 DL-Models-Deployment/
 ├── notebook.ipynb
-├── saved_model/
-│ └── mobilenetv2_imagenet.h5
 ├── requirements.txt
 ├── README.md
 └── demo_video.mp4
