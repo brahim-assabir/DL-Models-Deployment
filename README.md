@@ -11,7 +11,7 @@ L’application permet de charger une image et d’obtenir les **3 classes les p
 ## 👥 Membres de l’équipe
 
 - Brahim Assabir
-- Nadia Kandoul
+- Nadia Kendoul
   
 ## 🗂️ Structure du projet
 ```text
