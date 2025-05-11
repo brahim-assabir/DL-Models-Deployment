@@ -14,13 +14,13 @@ L’application permet de charger une image et d’obtenir les **3 classes les p
 - Nadia Kandoul
 
 ## 🗂️ Structure du projet
-
+```text
 DL-Models-Deployment/
 ├── notebook.ipynb
 ├── requirements.txt
 ├── README.md
 └── demo_video.mp4
-
+```
 ## ⚙️ Configuration de l’environnement
 
 1️⃣ Cloner le dépôt
