@@ -12,7 +12,6 @@ L’application permet de charger une image et d’obtenir les **3 classes les p
 
 - Brahim Assabir
 - Nadia Kandoul
-- Oussama LEKHAL
   
 ## 🗂️ Structure du projet
 ```text
